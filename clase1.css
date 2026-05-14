@@ -1,0 +1,65 @@
+/* Llamar a un elemento por su ID */
+#titulo_principal {
+    color: blue;
+    font-size: 24px;
+}
+
+/* Llamar a un elemento por su clase */
+.subtitulo {
+    color: green;
+    font-size: 20px;
+}
+
+/* Llamar a un elemento por su etiqueta */
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+
+li {
+    color: #000;
+    /* negro hexadecima */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: square;
+}
+
+.faltante {
+    color: red;
+}
+
+.ingrediente {
+    color: green;
+}
+
+#ingrediente-importante {
+    color: teal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*<ul class="receta">
+        <li class="ingrediente">Levadura</li>
+        <li class="ingrediente">Sal</li>
+        <li class="ingrediente">Azucar</li>
+        <li class="ingrediente">Harina</li>
+        <li class="ingrediente">Miel</li>
+        <li class="faltante" id="falta">Polvo de Hornear</li>
+        
+    </ul> 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
